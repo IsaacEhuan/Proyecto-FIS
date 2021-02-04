@@ -26,13 +26,12 @@ Tareas / Puntos:
 -	Investigación de las organizaciones de FMAT - *1 punto*
 
 
-Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
+Tomando en cuenta las siguientes métricas, y los cambios en el equipo, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
 
-- Baas Cab Jorge Miguel *16.70%*
-- Couoh Chan Maria Belen *28.42%*
-- Ehuan Avila Isaac Mauricio *28.42%*
-- Perera Huchim Oscar *11.71%*
-- Pérez Sauza Daniela Regina *14.74%*
+- Baas Cab Jorge Miguel *19.59%*
+- Couoh Chan Maria Belen *33.33%*
+- Ehuan Avila Isaac Mauricio *33.33%*
+- Perera Huchim Oscar *13.74%*
 
 ## Tareas y Segunda Entrega
 
@@ -46,13 +45,33 @@ Tareas/Puntos:
 - Redactar las bitácoras - *1 punto*
 - Incorporar un calendario exacto - *1 punto*
 
-Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
+Tomando en cuenta las siguientes métricas, y los cambios en el equipo, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
 
-- Baas Cab Jorge Miguel *22.86%*
-- Couoh Chan Maria Belen *29.52%*
-- Ehuan Avila Isaac Mauricio *21.90%*
-- Perera Huchim Oscar *22.86%*
-- Pérez Sauza Daniela Regina *2.86%*
+- Baas Cab Jorge Miguel *29.63%*
+- Couoh Chan Maria Belen *38.27%*
+- Ehuan Avila Isaac Mauricio *28.40%*
+- Perera Huchim Oscar *3.70%
+
+## Tareas y Tercera Entrega
+
+Tareas/Puntos:
+-Modificar el repocitorio - *3 puntos*
+-Crear imágenes definitivas para la página - *2 puntos*
+-Crear logo de la página - *2 punto*
+-Modificar el tipo de letra - *1 punto*
+-Pasar la información en inglés *3 puntos*
+-Codificar el el resto de las carrers - *3 puntos*
+-Codificar el apartado de "Sobre nosotros" - *3 Puntos*
+-Redactar bitácoras - *1 punto*
+-Modificar el calendario - *1 punto*
+-Modificar las métricas - *1 punto*
+
+Tomando en cuenta las siguientes métricas, y los cambios en el equipo, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
+
+- Baas Cab Jorge Miguel *27.62%*
+- Couoh Chan Maria Belen *29.45%*
+- Ehuan Avila Isaac Mauricio *30.91%*
+- Perera Huchim Oscar *12.00%
 
 [Ver porcentajes de la métrica](https://docs.google.com/spreadsheets/d/1wgpP8G_OLrjXBsB441RJYLcOzova0m70UkWFyIS6mnc/edit?usp=sharing)
 
